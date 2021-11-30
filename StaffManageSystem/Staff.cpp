@@ -4,7 +4,7 @@
  * @Author: Chester
  * @Date: 2021-11-27 15:14:25
  * @LastEditors: Chester
- * @LastEditTime: 2021-11-27 16:25:37
+ * @LastEditTime: 2021-11-28 17:16:01
  */
 #include "Staff.h"
 
@@ -15,7 +15,7 @@
  * @param {string} job
  * @return {*}
  */
-Staff::Staff(int id, std::string name, std::string job)
+Staff::Staff(int id, std::string name, int job)
 {
     m_id = id;
     m_name = name;

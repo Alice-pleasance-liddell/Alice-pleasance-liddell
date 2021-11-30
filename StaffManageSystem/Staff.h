@@ -4,7 +4,7 @@
  * @Author: Chester
  * @Date: 2021-11-27 15:14:15
  * @LastEditors: Chester
- * @LastEditTime: 2021-11-27 16:01:47
+ * @LastEditTime: 2021-11-28 17:16:00
  */
 #pragma once
 #include <iostream>
@@ -18,7 +18,7 @@
 class Staff:public Worker
 {
 public:
-    Staff(int id, std::string name, std::string job);
+    Staff(int id, std::string name, int job);
     ~Staff();
 
     virtual void showinfo();

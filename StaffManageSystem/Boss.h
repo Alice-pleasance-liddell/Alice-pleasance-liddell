@@ -4,7 +4,7 @@
  * @Author: Chester
  * @Date: 2021-11-27 16:11:28
  * @LastEditors: Chester
- * @LastEditTime: 2021-11-27 17:48:46
+ * @LastEditTime: 2021-11-28 17:16:07
  */
 #pragma once
 #include <iostream>
@@ -18,7 +18,7 @@
 class Boss:public Worker
 {
 public:
-    Boss(int id, std::string name, std::string job);
+    Boss(int id, std::string name, int job);
     ~Boss();
 
     virtual void showinfo();

@@ -4,7 +4,7 @@
  * @Author: Chester
  * @Date: 2021-11-27 15:16:09
  * @LastEditors: Chester
- * @LastEditTime: 2021-11-27 15:45:58
+ * @LastEditTime: 2021-11-28 17:20:53
  */
 #pragma once
 #include <iostream>
@@ -20,7 +20,7 @@ class Worker
 public:
     int m_id;
     std::string m_name;
-    std::string m_job;
+    int m_job;
 
     virtual void showinfo() = 0;
     virtual std::string getjob() =0;

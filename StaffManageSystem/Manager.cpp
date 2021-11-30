@@ -4,11 +4,11 @@
  * @Author: Chester
  * @Date: 2021-11-27 16:11:22
  * @LastEditors: Chester
- * @LastEditTime: 2021-11-27 16:50:43
+ * @LastEditTime: 2021-11-28 17:16:08
  */
 #include "Manager.h"
 
-Manager::Manager(int id, std::string name, std::string job)
+Manager::Manager(int id, std::string name, int job)
 {
     m_id = id;
     m_name = name;

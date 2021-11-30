@@ -4,7 +4,7 @@
  * @Author: Chester
  * @Date: 2021-11-27 16:11:33
  * @LastEditors: Chester
- * @LastEditTime: 2021-11-27 17:49:48
+ * @LastEditTime: 2021-11-28 17:16:05
  */
 #include "Boss.h"
 
@@ -15,7 +15,7 @@
  * @param {string} job
  * @return {*}
  */
-Boss::Boss(int id, std::string name, std::string job)
+Boss::Boss(int id, std::string name, int job)
 {
     m_id = id;
     m_name = name;
