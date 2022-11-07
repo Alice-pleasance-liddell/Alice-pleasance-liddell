@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -shared -Wl,-soname,libDBlib.so -o lib/libDBlib.so CMakeFiles/DBlib.dir/Cpp/Boss.cpp.o CMakeFiles/DBlib.dir/Cpp/Manager.cpp.o CMakeFiles/DBlib.dir/Cpp/Staff.cpp.o CMakeFiles/DBlib.dir/Cpp/WorkerManage.cpp.o 

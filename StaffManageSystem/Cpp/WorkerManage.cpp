@@ -7,11 +7,11 @@
  * @LastEditTime: 2021-11-30 17:48:00
  */
 
-#include "WorkerManage.h"
-#include "Worker.h"
-#include "Staff.h"
-#include "Manager.h"
-#include "Boss.h"
+#include "../header/WorkerManage.h"
+#include "../header/Worker.h"
+#include "../header/Staff.h"
+#include "../header/Manager.h"
+#include "../header/Boss.h"
 
 
 /**

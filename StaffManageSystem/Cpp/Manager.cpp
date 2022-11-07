@@ -6,7 +6,7 @@
  * @LastEditors: Chester
  * @LastEditTime: 2021-11-28 17:16:08
  */
-#include "Manager.h"
+#include "../header/Manager.h"
 
 Manager::Manager(int id, std::string name, int job)
 {

@@ -1,0 +1,8 @@
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/CMakeFiles/DBlib.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/CMakeFiles/StaffManageSystem.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/CMakeFiles/edit_cache.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/CMakeFiles/rebuild_cache.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/Cpp/CMakeFiles/edit_cache.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/Cpp/CMakeFiles/rebuild_cache.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/header/CMakeFiles/edit_cache.dir
+/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/header/CMakeFiles/rebuild_cache.dir

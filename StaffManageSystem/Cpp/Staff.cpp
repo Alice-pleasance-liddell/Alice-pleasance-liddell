@@ -6,7 +6,7 @@
  * @LastEditors: Chester
  * @LastEditTime: 2021-11-28 17:16:01
  */
-#include "Staff.h"
+#include "../header/Staff.h"
 
 /**
  * @brief: 职工类构造函数，赋值id， name job

@@ -8,11 +8,11 @@
  */
 
 #include <iostream>
-#include "WorkerManage.h"
-#include "Worker.h"
-#include "Staff.h"
-#include "Boss.h"
-#include "Manager.h"
+#include "header/WorkerManage.h"
+#include "header/Worker.h"
+#include "header/Staff.h"
+#include "header/Boss.h"
+#include "header/Manager.h"
 
 int main(void)
 {

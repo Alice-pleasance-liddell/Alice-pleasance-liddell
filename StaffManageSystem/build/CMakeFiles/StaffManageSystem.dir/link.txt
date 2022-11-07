@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -rdynamic CMakeFiles/StaffManageSystem.dir/ManageSystem.cpp.o -o bin/StaffManageSystem  -Wl,-rpath,/home/liddell/Documents/chester-pleasance-liddell/StaffManageSystem/build/lib lib/libDBlib.so 

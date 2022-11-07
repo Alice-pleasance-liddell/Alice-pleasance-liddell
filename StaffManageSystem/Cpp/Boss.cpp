@@ -6,7 +6,7 @@
  * @LastEditors: Chester
  * @LastEditTime: 2021-11-28 17:16:05
  */
-#include "Boss.h"
+#include "../header/Boss.h"
 
 /**
  * @brief: 董事类构造函数，赋值id， name job
